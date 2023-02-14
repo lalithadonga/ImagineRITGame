@@ -53,7 +53,7 @@ namespace ImagineRITGame
         // Player texture fields
         private Texture2D playerTexture;
         private Texture2D fishingBobTexture;
-        private Texture2D fishTexture;
+        private Texture2D fishTexture; 
 
         // Sprite sheet data
         private int numSpritesInSheet;
@@ -90,7 +90,6 @@ namespace ImagineRITGame
         protected override void Initialize()
         {
             // TODO: Add your initialization logic here
-
             base.Initialize();
         }
 
